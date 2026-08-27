@@ -20,7 +20,7 @@ Building, deploying and operating real-world applications
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### ☁️ DevOps & Infrastructure
 
