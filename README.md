@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Mohammad Arshia Jafari</h1>
+<h1 align="center">I'm Mohammad Arshia Jafari</h1>
 
 <h3 align="center">
 DevOps Enthusiast • Backend Developer • Network & IT
 </h3>
 
 <p align="center">
-Building, deploying and operating real-world applications 🚀
+Building, deploying and operating real-world applications
 </p>
 
 <p align="center">
