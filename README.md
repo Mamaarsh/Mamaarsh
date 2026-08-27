@@ -74,12 +74,4 @@ Building, deploying and operating real-world applications 🚀
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
-
----
-</p>
-
----
-
-<p align="center">
-<b>Always learning. Always building. 🚀</b>
 </p>
