@@ -1,9 +1,7 @@
-<h1 align="center">
-👋 Hi, I'm Mohammad Arshia Jafari
-</h1>
+<h1 align="center">👋 Hi, I'm Mohammad Arshia Jafari</h1>
 
 <h3 align="center">
-DevOps Enthusiast | Backend Developer | Cloud Native
+DevOps Enthusiast | Backend Developer | Network & IT Support
 </h3>
 
 <p align="center">
@@ -22,6 +20,7 @@ Building, deploying and operating real-world applications
 
 </p>
 
+---
 
 <p align="center">
 
@@ -47,7 +46,11 @@ Building, deploying and operating real-world applications
 <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
 
-</p>
-
-
 <br>
+
+<img src="https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white"/>
+<img src="https://img.shields.io/badge/TCP%2FIP-Networking-blue?style=flat-square"/>
+<img src="https://img.shields.io/badge/DNS-Networking-blue?style=flat-square"/>
+<img src="https://img.shields.io/badge/HTTP%2FHTTPS-Networking-blue?style=flat-square"/>
+
+</p>
