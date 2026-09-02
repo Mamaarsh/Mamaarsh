@@ -51,8 +51,3 @@ Building, deploying and operating real-world applications
 
 
 <br>
-
-
-<h3 align="center">
-⚙️ DevOps • Backend • Cloud Infrastructure
-</h3>
