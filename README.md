@@ -5,10 +5,6 @@ DevOps Enthusiast | Backend Developer | Network & IT Support
 </h3>
 
 <p align="center">
-Building, deploying and operating real-world applications
-</p>
-
-<p align="center">
 
 <a href="https://www.linkedin.com/in/mohammad-arshia-jafari-2a9102356/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
